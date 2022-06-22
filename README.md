@@ -1,2 +1,2 @@
 # Reto_venv
-Un proyecto creado en PyCharm usando Virtual Environment
+Un proyecto creado en PyCharm usando Virtual Environment (virtualenv)
